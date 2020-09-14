@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="trivia">Trivia</string>
+    <string name="no">1 out of 100</string>
+
+    <string name="TRUE">TRUE</string>
+    <string name="FALSE">FALSE</string>
+</resources>
